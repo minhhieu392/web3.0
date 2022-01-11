@@ -1,6 +1,6 @@
 const Loader = () =>{
     return (
-        <h1>Navbar</h1>
+        <h1>Loader</h1>
     );
 }
 export default Loader;
